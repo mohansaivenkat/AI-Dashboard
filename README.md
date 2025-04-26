@@ -3,7 +3,7 @@
 HumanChain AI is a modern, responsive frontend project built using **ReactJS**, **Tailwind CSS**, and **Framer Motion**.  
 It features a dark/light mode toggle, animated components, and a clean, professional UI.
 
-![screenshot](public/robo.webp)
+
 
 ## 🚀 Tech Stack
 
@@ -41,8 +41,8 @@ It features a dark/light mode toggle, animated components, and a clean, professi
 1. **Clone the repo**
 
    ```bash
-   git clone https://github.com/your-username/humanchain-ai.git
-   cd humanchain-ai
+   git clone https://github.com/mohansaivenkat/AI-Dashboard.git
+   cd AI-Dashboard
    ```
 
 2. **Install dependencies**
