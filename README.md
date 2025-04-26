@@ -3,7 +3,9 @@
 HumanChain AI is a modern, responsive frontend project built using **ReactJS**, **Tailwind CSS**, and **Framer Motion**.  
 It features a dark/light mode toggle, animated components, and a clean, professional UI.
 
+## Link of the website
 
+https://aidashboard-nu.vercel.app/
 
 ## 🚀 Tech Stack
 
@@ -18,14 +20,11 @@ It features a dark/light mode toggle, animated components, and a clean, professi
 - Live Monitoring indicator (hidden on mobile devices)
 - Responsive design for mobile, tablet, and desktop
 - Smooth entrance animations using Framer Motion
-- Custom favicon (`robo.webp`)
 - Footer with author information and useful links
 
 ## 📁 Project Structure
 
 ```
-/public
-   └── robo.webp    # Favicon for the project
 
 /src
    ├── components
@@ -33,7 +32,7 @@ It features a dark/light mode toggle, animated components, and a clean, professi
    │    └── Footer.jsx
    ├── App.jsx
    ├── main.jsx
-   └── index.css    # Tailwind CSS + Custom fonts
+   └── App.css    # Tailwind CSS + Custom fonts
 ```
 
 ## ⚙️ Setup Instructions
