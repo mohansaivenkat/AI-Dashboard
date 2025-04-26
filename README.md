@@ -68,9 +68,9 @@ It features a dark/light mode toggle, animated components, and a clean, professi
 ## ✍️ Author
 
 Made with ❤️ by **Mohan Sai Venkat**  
-- 📧 Email: [your-email@example.com]
-- 🔗 GitHub: [https://github.com/your-username](https://github.com/mohansaivenkat)
-- 🔗 LinkedIn: [https://linkedin.com/in/your-username](https://linkedin.com/in/mohan-sai-venkat)
+- 📧 Email: [mohansaivenkat2004@gmail.com]
+- 🔗 GitHub: [mohansaivenkat](https://github.com/mohansaivenkat)
+- 🔗 LinkedIn: [mohan-sai-venkat](https://linkedin.com/in/mohan-sai-venkat)
 
 ---
 
